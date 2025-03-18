@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "F:\\Base Repository\\Base-Repository\\Web.APIs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|f:\\base repository\\base-repository\\web.apis\\web.apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|solutionrelative:web.apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|f:\\base repository\\base-repository\\web.apis\\web.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|solutionrelative:web.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{359CD77A-FF03-4DC8-952C-CD839FDA0693}|Web.Domain\\Web.Domain.csproj|f:\\base repository\\base-repository\\web.apis\\web.domain\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{359CD77A-FF03-4DC8-952C-CD839FDA0693}|Web.Domain\\Web.Domain.csproj|F:\\Base Repository\\Base-Repository\\Web.APIs\\web.domain\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{359CD77A-FF03-4DC8-952C-CD839FDA0693}|Web.Domain\\Web.Domain.csproj|solutionrelative:web.domain\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|f:\\base repository\\base-repository\\web.apis\\web.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|F:\\Base Repository\\Base-Repository\\Web.APIs\\web.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|solutionrelative:web.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -75,6 +79,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.APIs\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Web.APIs\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.APIs\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Web.APIs\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:38:20.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "Web.Application\\DTOs\\LoginDTO.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Roles.cs",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\Enums\\Roles.cs",
               "RelativeDocumentMoniker": "Web.Domain\\Enums\\Roles.cs",
@@ -95,12 +112,11 @@
               "RelativeToolTip": "Web.Domain\\Enums\\Roles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:45:49.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T15:45:49.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TokenService.cs",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Service\\TokenService.cs",
               "RelativeDocumentMoniker": "Web.Infrastructure\\Service\\TokenService.cs",
@@ -112,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\Interfaces\\ITokenService.cs",
               "RelativeDocumentMoniker": "Web.Application\\Interfaces\\ITokenService.cs",
@@ -124,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BaseResponse.cs",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\Response\\BaseResponse.cs",
               "RelativeDocumentMoniker": "Web.Application\\Response\\BaseResponse.cs",
@@ -136,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Web.Application\\Mapping\\MappingProfile.cs",
@@ -144,12 +160,11 @@
               "RelativeToolTip": "Web.Application\\Mapping\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:28:15.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:28:15.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Files.cs",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\Files\\Files.cs",
               "RelativeDocumentMoniker": "Web.Application\\Files\\Files.cs",
@@ -161,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BaseClass.cs",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\Entites\\BaseClass.cs",
               "RelativeDocumentMoniker": "Web.Domain\\Entites\\BaseClass.cs",
@@ -173,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AppUser.cs",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\Entites\\AppUser.cs",
               "RelativeDocumentMoniker": "Web.Domain\\Entites\\AppUser.cs",
@@ -185,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Web.Infrastructure\\Data\\AppDbContext.cs",
@@ -197,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.APIs\\appsettings.json",
               "RelativeDocumentMoniker": "Web.APIs\\appsettings.json",
