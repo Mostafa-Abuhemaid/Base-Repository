@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Web.Infrastructure.csproj": {}
+    "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Web.Infrastructure.csproj": {}
   },
   "projects": {
-    "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\Web.Application.csproj": {
+    "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Web.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\Web.Application.csproj",
+        "projectUniqueName": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Web.Application.csproj",
         "projectName": "Web.Application",
-        "projectPath": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\Web.Application.csproj",
+        "projectPath": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Web.Application.csproj",
         "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-        "outputPath": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\obj\\",
+        "outputPath": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj": {
-                "projectPath": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj"
+              "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj": {
+                "projectPath": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj": {
+    "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj",
+        "projectUniqueName": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj",
         "projectName": "Web.Domain",
-        "projectPath": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj",
+        "projectPath": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj",
         "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-        "outputPath": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\obj\\",
+        "outputPath": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -130,6 +130,20 @@
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.14, )"
             }
           },
           "imports": [
@@ -152,14 +166,14 @@
         }
       }
     },
-    "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Web.Infrastructure.csproj": {
+    "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Web.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Web.Infrastructure.csproj",
+        "projectUniqueName": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Web.Infrastructure.csproj",
         "projectName": "Web.Infrastructure",
-        "projectPath": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Web.Infrastructure.csproj",
+        "projectPath": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Web.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-        "outputPath": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Infrastructure\\obj\\",
+        "outputPath": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,11 +194,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\Web.Application.csproj": {
-                "projectPath": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Application\\Web.Application.csproj"
+              "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Web.Application.csproj": {
+                "projectPath": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Web.Application.csproj"
               },
-              "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj": {
-                "projectPath": "F:\\Base Repository\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj"
+              "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj": {
+                "projectPath": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\Web.Domain.csproj"
               }
             }
           }
