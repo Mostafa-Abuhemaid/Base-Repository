@@ -3,15 +3,35 @@
   "WorkspaceRootPath": "F:\\My Projects\\Base-Repository\\Web.APIs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|F:\\My Projects\\Base-Repository\\Web.APIs\\web.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|solutionrelative:web.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|f:\\my projects\\base-repository\\web.apis\\web.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|solutionrelative:web.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE2864-44C2-4A61-A563-40C0A4CFCAC9}|Web.Infrastructure\\Web.Infrastructure.csproj|f:\\my projects\\base-repository\\web.apis\\web.infrastructure\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE2864-44C2-4A61-A563-40C0A4CFCAC9}|Web.Infrastructure\\Web.Infrastructure.csproj|solutionrelative:web.infrastructure\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|F:\\My Projects\\Base-Repository\\Web.APIs\\web.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|solutionrelative:web.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|f:\\my projects\\base-repository\\web.apis\\web.application\\dtos\\emaildto\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|solutionrelative:web.application\\dtos\\emaildto\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECCE2864-44C2-4A61-A563-40C0A4CFCAC9}|Web.Infrastructure\\Web.Infrastructure.csproj|F:\\My Projects\\Base-Repository\\Web.APIs\\web.infrastructure\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECCE2864-44C2-4A61-A563-40C0A4CFCAC9}|Web.Infrastructure\\Web.Infrastructure.csproj|solutionrelative:web.infrastructure\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|f:\\my projects\\base-repository\\web.apis\\web.apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|f:\\my projects\\base-repository\\web.apis\\web.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|solutionrelative:web.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|f:\\my projects\\base-repository\\web.apis\\web.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107D34F7-E038-4D59-B040-4E19DDD769D8}|Web.Application\\Web.Application.csproj|solutionrelative:web.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|F:\\My Projects\\Base-Repository\\Web.APIs\\web.apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|solutionrelative:web.apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -45,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ECCE2864-44C2-4A61-A563-40C0A4CFCAC9}|Web.Infrastructure\\Web.Infrastructure.csproj|F:\\My Projects\\Base-Repository\\Web.APIs\\web.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECCE2864-44C2-4A61-A563-40C0A4CFCAC9}|Web.Infrastructure\\Web.Infrastructure.csproj|solutionrelative:web.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|F:\\My Projects\\Base-Repository\\Web.APIs\\web.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{50E198D3-C4BF-4E54-951D-111DA525555C}|Web.APIs\\Web.APIs.csproj|solutionrelative:web.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,20 +94,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.APIs\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Web.APIs\\Controllers\\AccountController.cs",
-              "ToolTip": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.APIs\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Web.APIs\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Web.APIs\\Program.cs",
+              "ToolTip": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.APIs\\Program.cs",
+              "RelativeToolTip": "Web.APIs\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T19:38:20.525Z",
+              "WhenOpened": "2025-04-14T06:25:27.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EmailDto.cs",
+              "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\DTOs\\EmailDTO\\EmailDto.cs",
+              "RelativeDocumentMoniker": "Web.Application\\DTOs\\EmailDTO\\EmailDto.cs",
+              "ToolTip": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\DTOs\\EmailDTO\\EmailDto.cs",
+              "RelativeToolTip": "Web.Application\\DTOs\\EmailDTO\\EmailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:22:41.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Web.Application\\Interfaces\\IEmailService.cs",
+              "ToolTip": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Web.Application\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:19:42.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Web.Infrastructure\\Service\\EmailService.cs",
+              "ToolTip": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Service\\EmailService.cs",
+              "RelativeToolTip": "Web.Infrastructure\\Service\\EmailService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:18:50.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "Web.Application\\DTOs\\LoginDTO.cs",
@@ -99,12 +154,11 @@
               "RelativeToolTip": "Web.Application\\DTOs\\LoginDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:46:50.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T15:46:50.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Roles.cs",
               "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\Enums\\Roles.cs",
               "RelativeDocumentMoniker": "Web.Domain\\Enums\\Roles.cs",
@@ -112,12 +166,11 @@
               "RelativeToolTip": "Web.Domain\\Enums\\Roles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:45:49.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T15:45:49.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TokenService.cs",
               "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Service\\TokenService.cs",
               "RelativeDocumentMoniker": "Web.Infrastructure\\Service\\TokenService.cs",
@@ -130,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Interfaces\\ITokenService.cs",
               "RelativeDocumentMoniker": "Web.Application\\Interfaces\\ITokenService.cs",
@@ -143,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "BaseResponse.cs",
               "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Response\\BaseResponse.cs",
               "RelativeDocumentMoniker": "Web.Application\\Response\\BaseResponse.cs",
@@ -151,12 +204,36 @@
               "RelativeToolTip": "Web.Application\\Response\\BaseResponse.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:34:08.877Z",
+              "WhenOpened": "2025-03-18T00:34:08.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "Web.APIs\\appsettings.json",
+              "ToolTip": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.APIs\\appsettings.json",
+              "RelativeToolTip": "Web.APIs\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T23:26:21.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.APIs\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Web.APIs\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.APIs\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Web.APIs\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:38:20.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Web.Application\\Mapping\\MappingProfile.cs",
@@ -164,12 +241,11 @@
               "RelativeToolTip": "Web.Application\\Mapping\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:28:15.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:28:15.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Files.cs",
               "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Application\\Files\\Files.cs",
               "RelativeDocumentMoniker": "Web.Application\\Files\\Files.cs",
@@ -177,12 +253,11 @@
               "RelativeToolTip": "Web.Application\\Files\\Files.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA9wAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:26:05.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:26:05.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "BaseClass.cs",
               "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\Entites\\BaseClass.cs",
               "RelativeDocumentMoniker": "Web.Domain\\Entites\\BaseClass.cs",
@@ -190,12 +265,11 @@
               "RelativeToolTip": "Web.Domain\\Entites\\BaseClass.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:02:16.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:02:16.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "AppUser.cs",
               "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Domain\\Entites\\AppUser.cs",
               "RelativeDocumentMoniker": "Web.Domain\\Entites\\AppUser.cs",
@@ -203,12 +277,11 @@
               "RelativeToolTip": "Web.Domain\\Entites\\AppUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T23:58:33.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T23:58:33.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Web.Infrastructure\\Data\\AppDbContext.cs",
@@ -216,21 +289,7 @@
               "RelativeToolTip": "Web.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T23:54:06.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.APIs\\appsettings.json",
-              "RelativeDocumentMoniker": "Web.APIs\\appsettings.json",
-              "ToolTip": "F:\\My Projects\\Base-Repository\\Web.APIs\\Web.APIs\\appsettings.json",
-              "RelativeToolTip": "Web.APIs\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-17T23:26:21.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T23:54:06.173Z"
             }
           ]
         }
