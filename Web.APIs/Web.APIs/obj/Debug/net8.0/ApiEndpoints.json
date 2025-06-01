@@ -92,5 +92,63 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Web.APIs.Controllers.UserController",
+    "Method": "DeleteUserByEmail",
+    "RelativePath": "api/User/DeleteAccountByEmail",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.APIs.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/User/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.APIs.Controllers.UserController",
+    "Method": "LockUser",
+    "RelativePath": "api/User/Lock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.APIs.Controllers.UserController",
+    "Method": "UnlockUser",
+    "RelativePath": "api/User/Unlock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
